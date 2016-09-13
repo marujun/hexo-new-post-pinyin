@@ -1,6 +1,6 @@
 {
   "name": "hexo-new-post-pinyin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert chinese to pinyin of title for new post for hexo",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/marujun/hexo-new-post-pinyin#readme",
   "dependencies": {
+    "hexo-fs": "^0.1.5",
     "transliteration": "^1.1.9"
   },
   "license": "MIT"
