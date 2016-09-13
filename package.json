@@ -1,0 +1,27 @@
+{
+  "name": "hexo-new-post-pinyin",
+  "version": "0.0.1",
+  "description": "create one and only link for every post for hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marujun/hexo-new-post-pinyin.git"
+  },
+  "keywords": [
+    "hexo",
+    "pinyin",
+    "title"
+  ],
+  "author": "MaRuJun",
+  "bugs": {
+    "url": "https://github.com/marujun/hexo-new-pinyin/issues"
+  },
+  "homepage": "https://github.com/marujun/hexo-new-pinyin#readme",
+  "dependencies": {
+    "transliteration": "^1.1.9"
+  },
+  "license": "MIT"
+}
