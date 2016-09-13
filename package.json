@@ -17,9 +17,9 @@
   ],
   "author": "MaRuJun",
   "bugs": {
-    "url": "https://github.com/marujun/hexo-new-pinyin/issues"
+    "url": "https://github.com/marujun/hexo-new-post-pinyin/issues"
   },
-  "homepage": "https://github.com/marujun/hexo-new-pinyin#readme",
+  "homepage": "https://github.com/marujun/hexo-new-post-pinyin#readme",
   "dependencies": {
     "transliteration": "^1.1.9"
   },
