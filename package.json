@@ -1,6 +1,6 @@
 {
   "name": "hexo-new-post-pinyin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "convert chinese to pinyin of title for new post for hexo",
   "main": "index.js",
   "scripts": {
