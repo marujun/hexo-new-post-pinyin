@@ -1,7 +1,7 @@
 {
   "name": "hexo-new-post-pinyin",
   "version": "0.0.1",
-  "description": "create one and only link for every post for hexo",
+  "description": "convert chinese to pinyin of title for new post for hexo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
